@@ -45,7 +45,7 @@ Clona el repositorio
 Abre el archivo index.html en tu navegador
 Explora las diferentes secciones del portafolio
 
-Personalización
+Personalización:
 
 Para adaptar este portafolio a tu propio trabajo:
 Reemplaza las imágenes en las secciones correspondientes
